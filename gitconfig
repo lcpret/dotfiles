@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lcpret@gmail.com
+	name = LC Pret
